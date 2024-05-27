@@ -10,6 +10,39 @@ Tugas Praktikum Pemrograman Mobile
 - Muhammad Rafi Indrakusumah
 - Siti Luthfiah Khoirotunnisa
 
+## Ketentuan Tugas
+
+1. Tugas secara kelompok (Kelompok yang sudah dibagikan)
+
+2. Buat aplikasi mobile dengan integrasi API dari url berikut : https://reqres.in/
+
+3. Implementasikan API berikut
+
+   - GET : "/users"
+
+     - Untuk menampilkan semua pengguna
+
+   - GET : "/users/{id}"
+
+     - Untuk menampilkan satu pengguna berdasarkan id
+
+   - POST : "/users"
+     - Mengirimkan data user baru ke API
+
+4. Aplikasi dapat menampilkan halaman sebagai berikut
+
+   - Halaman utama : menampilkan daftar pengguna
+
+   - Halaman detail Pengguna : menampilkan detail pengguna (tampilkan semua data pengguna)
+
+   - Halaman form : Untuk menambahkan pengguna baru (sesuaikan form dengan request dari URL API)
+
+5. Aplikasi disimpan di repository github/gitlab
+
+   - Setiap anggota diharuskan melakukan contribusi (commit) ke repository
+
+   - Kirimkan url Repository aplikasi ke Elearning.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
